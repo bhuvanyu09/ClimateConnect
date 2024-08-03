@@ -106,30 +106,7 @@ npm install
 **Backend:** Node, Express 
 
 **Database:** MongoDB
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at kunaalgupta@hotmail.com
-
-
-## Installation
-
-Install WeatherSense with npm after cloning the project
-
-```bash
-npm Install
-```
     
-## Documentation
-
-[React Framework](https://react.dev/)
-
-[Express JS](https://expressjs.com/)
-
-[MongoDB](https://www.mongodb.com/)
-
-[Axios](https://axios-http.com/)
 
 
 ## Features
@@ -146,11 +123,5 @@ Contributions are always welcome!
 
 If you encounter any bugs or would like to suggest improvements, please open an issue or submit a pull request.
 
-## About Me
-I'm a results-driven full-stack software developer passionate about building innovative solutions using the latest tech stack in an Agile environment. With a focus on optimal functionality, quality, and reliability, I excel at developing robust software systems.
-
-My expertise lies in Python with frameworks like Django and libraries like Pandas, NumPy, OpenCV, Matplotlib, SciKit, and Tkinter . I'm also proficient in C++, JavaScript, Ajax, HTML5/CSS, React & Node.JS and have hands-on experience with blockchain technologies, specifically Solidity and Ethereum .
-
-In addition, I have a great understanding of database management systems such as MongoDB, MySQL, and SQLite . To streamline my work, I employ various tools including PyCharm, Visual Studio Code, JIRA, GitHub, Truffle, Metamask, Ganache, Remix IDE, and the Microsoft Suite.
 
 
